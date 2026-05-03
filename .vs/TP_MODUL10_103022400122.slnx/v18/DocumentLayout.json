@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Acer\\Downloads\\TP_MODUL10_103022400122\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8157507-9896-1429-4EF9-A0E7545C2956}|TP_MODUL10_103022400122\\TP_MODUL10_103022400122.csproj|c:\\users\\acer\\downloads\\tp_modul10_103022400122\\tp_modul10_103022400122\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8157507-9896-1429-4EF9-A0E7545C2956}|TP_MODUL10_103022400122\\TP_MODUL10_103022400122.csproj|solutionrelative:tp_modul10_103022400122\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8157507-9896-1429-4EF9-A0E7545C2956}|TP_MODUL10_103022400122\\TP_MODUL10_103022400122.csproj|c:\\users\\acer\\downloads\\tp_modul10_103022400122\\tp_modul10_103022400122\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8157507-9896-1429-4EF9-A0E7545C2956}|TP_MODUL10_103022400122\\TP_MODUL10_103022400122.csproj|solutionrelative:tp_modul10_103022400122\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8157507-9896-1429-4EF9-A0E7545C2956}|TP_MODUL10_103022400122\\TP_MODUL10_103022400122.csproj|c:\\users\\acer\\downloads\\tp_modul10_103022400122\\tp_modul10_103022400122\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8157507-9896-1429-4EF9-A0E7545C2956}|TP_MODUL10_103022400122\\TP_MODUL10_103022400122.csproj|solutionrelative:tp_modul10_103022400122\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\TP_MODUL10_103022400122\\TP_MODUL10_103022400122\\Film.cs",
+              "RelativeDocumentMoniker": "TP_MODUL10_103022400122\\Film.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\TP_MODUL10_103022400122\\TP_MODUL10_103022400122\\Film.cs",
+              "RelativeToolTip": "TP_MODUL10_103022400122\\Film.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:36:33.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilmController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\TP_MODUL10_103022400122\\TP_MODUL10_103022400122\\FilmController.cs",
+              "RelativeDocumentMoniker": "TP_MODUL10_103022400122\\FilmController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\TP_MODUL10_103022400122\\TP_MODUL10_103022400122\\FilmController.cs",
+              "RelativeToolTip": "TP_MODUL10_103022400122\\FilmController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:37:50.754Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\TP_MODUL10_103022400122\\TP_MODUL10_103022400122\\Program.cs",
+              "RelativeDocumentMoniker": "TP_MODUL10_103022400122\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\TP_MODUL10_103022400122\\TP_MODUL10_103022400122\\Program.cs",
+              "RelativeToolTip": "TP_MODUL10_103022400122\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:33:02.458Z",
+              "EditorCaption": ""
             }
           ]
         },
